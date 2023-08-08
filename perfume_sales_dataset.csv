@@ -1,0 +1,79 @@
+Order No.,Date,Perfume Article No.,Perfume Name,Quantity,Original Price,Discount,After Discount Amount,Total Amount,Customer Age,Customer Gender,Customer Location,Customer Number
+1000,08/07/2023,P953,Floral Elegance,1,125,5,120,120,59,Female,Colemouth,C6391
+1001,09/07/2023,P446,Patchouli Passion,2,94,10,84,168,58,Male,Mortonborough,C7640
+1002,10/07/2023,P241,Amber Romance,2,113,10,103,206,30,Female,West Brianburgh,C8092
+1003,11/07/2023,P807,Patchouli Passion,1,146,0,146,146,41,Male,Williamschester,C1962
+1004,12/07/2023,P444,Rose Petals,2,53,15,38,76,32,Female,New Diana,C3654
+1004,12/07/2023,P493,Sandalwood Serenity,2,99,20,79,158,70,Female,Sotostad,C2498
+1004,12/07/2023,P736,Vanilla Delight,3,45,15,30,90,44,Female,New Nicholasfort,C7485
+1007,13/07/2023,P134,Woodland Fantasy,2,106,5,101,202,19,Male,North Christopherhaven,C5589
+1007,13/07/2023,P180,Citrus Zest,1,100,0,100,100,32,Female,Edwardmouth,C3488
+1007,13/07/2023,P803,Exotic Spice,2,117,5,112,224,25,Male,South Jacobville,C6846
+1007,13/07/2023,P836,Jasmine Whisper,3,137,10,127,381,63,Male,North Christophershire,C1105
+1011,14/07/2023,P156,Ocean Breeze,3,111,15,96,288,52,Male,Harthaven,C1844
+1011,14/07/2023,P427,Spiced Citrus,1,108,0,108,108,36,Male,North Michael,C3807
+1013,15/07/2023,P507,Aromatic Garden,1,42,15,27,27,27,Female,Washingtonchester,C6753
+1013,15/07/2023,P986,Jasmine Whisper,3,121,10,111,333,34,Male,Perrychester,C6864
+1015,16/07/2023,P479,Woodland Fantasy,3,135,0,135,405,22,Male,Bettyland,C8913
+1016,17/07/2023,P141,Ocean Breeze,1,121,15,106,106,42,Male,Port Jason,C4354
+1016,17/07/2023,P384,Jasmine Whisper,2,49,20,29,58,43,Female,Hudsonview,C3650
+1018,18/07/2023,P355,Vanilla Delight,2,121,0,121,242,32,Male,Lake Kennethmouth,C8536
+1018,18/07/2023,P382,Amber Romance,1,42,10,32,32,44,Female,Gonzalesfurt,C1028
+1018,18/07/2023,P606,Oud Opulence,3,150,20,130,390,23,Female,Dianaborough,C6115
+1021,19/07/2023,P112,Spiced Citrus,3,55,0,55,165,60,Female,Morrisonmouth,C5346
+1021,19/07/2023,P974,Eau de Blossom,1,133,20,113,113,47,Female,Lake Carol,C8187
+1023,20/07/2023,P163,Citrus Zest,3,77,0,77,231,25,Female,Danaland,C6715
+1023,20/07/2023,P462,Rose Petals,1,106,0,106,106,49,Female,South Shane,C8235
+1025,21/07/2023,P382,Rose Petals,2,109,15,94,188,63,Male,Port Raymond,C1636
+1025,21/07/2023,P534,Floral Elegance,1,100,20,80,80,46,Female,New Matthew,C9337
+1025,21/07/2023,P924,Floral Elegance,1,48,15,33,33,36,Female,New Sabrinachester,C8483
+1025,21/07/2023,P971,Oud Opulence,2,56,20,36,72,19,Female,Kelseyville,C6659
+1029,22/07/2023,P306,Citrus Zest,2,89,0,89,178,52,Male,Grayview,C5899
+1029,22/07/2023,P705,Cedarwood Bliss,2,87,0,87,174,31,Male,Lake William,C9715
+1029,22/07/2023,P787,Vanilla Delight,1,106,20,86,86,45,Male,North Bryanborough,C1909
+1029,22/07/2023,P876,Woodland Fantasy,1,101,0,101,101,26,Female,Port Rachel,C7944
+1033,23/07/2023,P937,Lavender Dreams,2,45,10,35,70,60,Male,East Daniel,C6966
+1034,24/07/2023,P180,Aromatic Garden,2,85,15,70,140,54,Male,Maryfurt,C3459
+1034,24/07/2023,P197,Aromatic Garden,3,62,10,52,156,46,Male,New Jeffery,C4923
+1034,24/07/2023,P357,Woodland Fantasy,3,105,0,105,315,31,Male,Abigailmouth,C8482
+1034,24/07/2023,P365,Mystic Musk,3,149,0,149,447,41,Female,New Ericaton,C3349
+1034,24/07/2023,P465,Musk Magic,2,122,5,117,234,66,Male,Perezchester,C6335
+1039,25/07/2023,P137,Aromatic Garden,1,40,0,40,40,24,Male,West Georgeview,C3572
+1039,25/07/2023,P143,Amber Romance,2,62,10,52,104,25,Female,South Brittneyborough,C5681
+1039,25/07/2023,P548,Rose Petals,1,116,20,96,96,44,Male,Karenport,C4614
+1039,25/07/2023,P846,Patchouli Passion,1,61,10,51,51,35,Male,Wrightbury,C9622
+1043,26/07/2023,P254,Amber Romance,3,144,5,139,417,20,Female,Leonardborough,C5417
+1043,26/07/2023,P560,Sandalwood Serenity,3,40,0,40,120,45,Female,East Joshuastad,C7146
+1043,26/07/2023,P721,Mystic Musk,2,40,20,20,40,47,Male,Port Rachelmouth,C7357
+1046,27/07/2023,P482,Spiced Citrus,2,48,10,38,76,49,Male,South Courtney,C6173
+1046,27/07/2023,P977,Eau de Blossom,3,80,0,80,240,62,Male,Chadfurt,C1563
+1046,27/07/2023,P988,Musk Magic,3,99,20,79,237,45,Male,Juareztown,C6510
+1049,28/07/2023,P181,Floral Elegance,2,132,5,127,254,34,Female,New Jennifer,C3844
+1049,28/07/2023,P357,Patchouli Passion,1,103,0,103,103,64,Male,East Jamie,C6339
+1049,28/07/2023,P464,Citrus Zest,1,106,15,91,91,26,Female,Richardsshire,C3942
+1049,28/07/2023,P798,Patchouli Passion,1,73,20,53,53,48,Male,West Cynthiaburgh,C8332
+1049,28/07/2023,P833,Floral Elegance,3,105,15,90,270,57,Female,West Helenberg,C2622
+1054,29/07/2023,P533,Eau de Blossom,2,143,20,123,246,29,Female,Jessicaton,C4101
+1054,29/07/2023,P732,Rose Petals,2,93,0,93,186,18,Male,Nicholasbury,C7250
+1054,29/07/2023,P866,Exotic Spice,2,116,15,101,202,35,Female,North Brittanymouth,C2237
+1057,30/07/2023,P758,Exotic Spice,2,92,0,92,184,39,Female,Nicholsview,C6004
+1057,30/07/2023,P833,Jasmine Whisper,2,89,0,89,178,41,Male,East Michaelville,C1711
+1057,30/07/2023,P872,Ocean Breeze,2,79,0,79,158,67,Female,Burtonfurt,C7259
+1057,30/07/2023,P879,Spiced Citrus,1,103,0,103,103,20,Male,Russellburgh,C7707
+1061,31/07/2023,P771,Cedarwood Bliss,1,91,0,91,91,46,Female,Riverabury,C5408
+1062,01/08/2023,P122,Musk Magic,2,114,15,99,198,28,Female,Carrieside,C8932
+1062,01/08/2023,P304,Lavender Dreams,2,112,15,97,194,67,Male,Williamsfort,C7303
+1062,01/08/2023,P315,Jasmine Whisper,2,54,0,54,108,49,Female,Lake Crystal,C1494
+1062,01/08/2023,P774,Citrus Zest,3,93,5,88,264,28,Male,Christianport,C5695
+1062,01/08/2023,P949,Musk Magic,1,65,5,60,60,41,Male,Hernandezton,C9698
+1067,02/08/2023,P212,Spiced Citrus,2,134,0,134,268,33,Female,Jonesfurt,C8612
+1068,03/08/2023,P327,Eau de Blossom,2,99,0,99,198,41,Male,East Sean,C3432
+1069,04/08/2023,P423,Musk Magic,2,145,10,135,270,22,Female,Lake Mariahfort,C4516
+1069,04/08/2023,P643,Citrus Zest,1,107,15,92,92,25,Female,Brianaburgh,C6849
+1069,04/08/2023,P870,Woodland Fantasy,1,95,10,85,85,65,Female,Millerhaven,C8942
+1072,05/08/2023,P243,Musk Magic,3,145,0,145,435,50,Female,West Dawnstad,C9014
+1072,05/08/2023,P408,Lavender Dreams,2,86,0,86,172,62,Male,Lake Trevor,C2472
+1072,05/08/2023,P461,Cedarwood Bliss,2,149,5,144,288,58,Female,West Rodneyton,C7477
+1072,05/08/2023,P785,Tropical Breeze,1,69,0,69,69,29,Female,West Patriciabury,C3630
+1072,05/08/2023,P854,Mystic Musk,1,147,20,127,127,25,Male,Christineport,C6565
+1077,06/08/2023,P140,Mystic Musk,2,46,0,46,92,19,Female,Lake Laceytown,C8182
