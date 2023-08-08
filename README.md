@@ -8,7 +8,7 @@ This project is a comprehensive exploration of a perfume sales dataset, aiming t
 
 ## Project Structure 🏗️
 
-- 📁 `data_analysis.ipynb`: Jupyter Notebook containing detailed analysis and code.
+- 📁 `perfume_sales_data.ipynb`: Jupyter Notebook containing detailed analysis and code.
 - 📂 `perfume_sales_dataset.csv`: Raw dataset containing perfume sales data.
 - 📄 `Project_Report.docx`: Comprehensive report detailing findings and recommendations.
 - 📊 `Tableau_Dashboard`: Interactive dashboard for visualizing key insights.
