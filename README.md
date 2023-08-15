@@ -46,6 +46,8 @@ For a more detailed analysis and interactive visuals, refer to the [Jupyter Note
 
 Feel free to reach out to me at [your@email.com](mailto:your@email.com) for questions or collaboration!
 
+Disclaimer: The data is generated using ChatGPT hence can be deemed unrealistic and inaccurate.
+
 
 For the complete code and details, please refer to the [Jupyter Notebook](perfume_sales_data.ipynb) and the [GitHub repository](https://github.com/hamzaafzalv/your_perfume_shop).
 
