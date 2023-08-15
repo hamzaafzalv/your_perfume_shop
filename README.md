@@ -42,14 +42,7 @@ This project is a comprehensive exploration of a perfume sales dataset, aiming t
 
 This project demonstrates the power of data analysis in uncovering actionable insights from customer sales data. The combination of Python tools, Microsoft Word reporting, and Tableau visualization paints a holistic picture for effective decision-making in marketing strategies.
 
-For a more detailed analysis and interactive visuals, refer to the [Jupyter Notebook](data_analysis.ipynb), the [Project Report](Project_Report.docx), and explore the [Tableau Dashboard](Tableau_Dashboard).
-
-Feel free to reach out to me at [your@email.com](mailto:your@email.com) for questions or collaboration!
-
-Disclaimer: The data is generated using ChatGPT hence can be deemed unrealistic and inaccurate.
-
-
-For the complete code and details, please refer to the [Jupyter Notebook](perfume_sales_data.ipynb) and the [GitHub repository](https://github.com/hamzaafzalv/your_perfume_shop).
+For a more detailed analysis and interactive visuals, refer to the [Jupyter Notebook](data_analysis.ipynb), the [Project Report](Project_Report.docx),the [Tableau Dashboard](Tableau_Dashboard) and explore the [GitHub repository](https://github.com/hamzaafzalv/your_perfume_shop).
 
 Feel free to reach out to me at [hamza26afzal@gmail.com](mailto:hamza26afzal@gmail.com) for questions or collaboration opportunities.
 
